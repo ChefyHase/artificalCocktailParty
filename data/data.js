@@ -5,7 +5,7 @@ const tf = require('@tensorflow/tfjs-node-gpu');
 
 class Data {
   constructor(args) {
-    this.audioDirName = path.join(__dirname, 'cv-valid-dev');
+    this.audioDirName = path.join(__dirname, "drive/'My Drive'", 'cv-valid-dev');
     this.samples = [];
     this.index = 0;
   }
