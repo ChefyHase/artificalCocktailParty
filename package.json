@@ -1,0 +1,15 @@
+{
+  "name": "artificalCocktailParty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ChefyHase <chefyhase@gmail.com> (http://chefyhase.example.com)",
+  "license": "ISC",
+  "dependencies": {
+    "wav-decoder": "^1.3.0"
+  }
+}
